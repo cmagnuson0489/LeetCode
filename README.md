@@ -5,7 +5,7 @@
 
 - I will mainly be focusing on questions from the Blind 75 Leetcode questions list, but I will also be doing additional questions as well.
 
--Leetcode Problem: 904 Max_Fruits Description
+- Leetcode Problem: 904 Max_Fruits Description
 - You are visiting a farm that has a single row of fruit trees arranged from left to right. 
 - The trees are represented by an integer array fruits where fruits[i] is the type of fruit the ith tree produces.
 - You want to collect as much fruit as possible.
